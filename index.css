@@ -21,7 +21,7 @@ body{
     display: flex;
     align-items: center;
     background-color: var(--pale-blue);
-    background-image: url(.//images/pattern-background-desktop.svg);
+    background-image: url(pattern-background-desktop.svg);
     background-repeat: repeat-x;
 }
 
@@ -141,7 +141,7 @@ span{
 @media screen and (max-width: 375px) {
     body{
         padding: 1rem;
-        background-image: url(.//images/pattern-background-mobile.svg);
+        background-image: url(pattern-background-mobile.svg);
     }
 
     .plan{
